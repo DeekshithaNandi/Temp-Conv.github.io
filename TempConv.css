@@ -1,0 +1,47 @@
+body{
+    background-image:"temp1.jpg";
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80vh;
+    margin: 0;
+}
+
+.temp-converter{
+    margin-left: 475px;
+    margin-right: 430px;
+    margin-top: 100px;
+    padding-left: 102px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 2px solid black;
+    background-image: url("bg1.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.temp-converter h1{
+    
+    padding-bottom: 20px;
+    color: #A02334;
+    
+}
+.temp-converter button{
+    text-align: center;
+    margin-left: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #FF407D
+    
+
+}
+.temp-converter button:hover{
+background-color: #387ADF;
+
+}
+#Res{
+    padding-left: 20px;
+    padding-right: 130px;
+   
+}
