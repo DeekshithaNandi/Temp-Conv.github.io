@@ -1,5 +1,5 @@
 body{
-    background-image:"temp1.jpg";
+    background: #fff;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -45,3 +45,4 @@ background-color: #387ADF;
     padding-right: 130px;
    
 }
+
